@@ -1,0 +1,15 @@
+from RegressaoLinear.a_UnivariadaMA import RegLinearUnivariadaMA
+
+from RegressaoLinear.b_UnivariadaGD import RegLinearUnivariadaGD
+
+from RegressaoLinear.c_MultivariadaMA import RegLinearMultivariadaMA
+
+from RegressaoLinear.d_MultvariadaGD import RegLinearMultivariadaGD
+
+from RegressaoLinear.e_MultivariadaSGD import RegLinearMultivariadaSGD
+
+from RegressaoLinear.f_Quadratica import RegLinearQuadratica
+
+from RegressaoLinear.g_Cubica import RegLinearCubica
+
+from RegressaoLinear.h_RegularizadaMultivariadaGD import RegLinearRegularizadoMultivariadaGD
