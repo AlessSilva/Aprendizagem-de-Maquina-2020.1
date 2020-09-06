@@ -1,0 +1,3 @@
+from Classificadores.a_RegressaoLogistica import RegressaoLogistica
+from Classificadores.b_NaiveBayesGaussiano import NaiveBayesGaussiano
+from Classificadores.c_DiscriminanteQuadraticoGaussiano import DiscriminanteQuadraticoGaussiano
